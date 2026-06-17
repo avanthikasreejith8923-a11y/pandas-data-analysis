@@ -17,5 +17,4 @@ Comprehensive Pandas toolkit covering core data manipulation operations essentia
 ## Tech Stack
 Python | Pandas | NumPy | Google Colab
 
-## Status
-Part of an ongoing AI Engineering learning path.
+
